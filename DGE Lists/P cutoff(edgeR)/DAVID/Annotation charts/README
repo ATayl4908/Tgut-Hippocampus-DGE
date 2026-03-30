@@ -1,0 +1,3 @@
+Tables in this folder are the outputs of DAVID (lists of GO categories) for each contrast, as indicated in the filenames. These have also been merged into .xlsx files for readability. 
+
+DAVID_to_GoFigure.R converts these DAVID outputs into a format useable by GO-Figure. The /Go-Figure/ folder contains a script which uses these converted outputs to plot related GO categories into clusters via "GO-Figure!" (Python). 
